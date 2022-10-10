@@ -1,0 +1,2 @@
+# template-node
+Template Node
