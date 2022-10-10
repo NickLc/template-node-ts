@@ -1,0 +1,7 @@
+src
+tsconfig.json
+.prettierrc
+.eslintrc
+.husky
+.vscode
+node_modules
