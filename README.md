@@ -1,2 +1,2 @@
-# template-node
-Template Node
+# template-node-ts
+Template Node TypeScript
